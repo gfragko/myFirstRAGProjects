@@ -1,0 +1,52 @@
+Here is the summary of the Bill of Lading:
+
+**Shipper Information**
+
+* Skysealand Shipping Lines
+* Six Star Building (4th Floor), 413/B Agrabad C/A, Chittagong, Bangladesh
+* Tel: +88031-2526344, Fax: +88031-2523955
+
+**Document Details**
+
+* Document Number: 21072800108
+* B/L Number: STFL21072190
+* Export References: Consignee Arian Maritime S.A.
+
+**Consignee Information**
+
+* Arian Maritime S.A.
+* 133A Filonos Street, Piraeus, Greece 18536
+* Tel: +302104170211, Fax: +302104170215
+* PIC: Mrs. Agapi Moussakou
+
+**Notify Party Information**
+
+* EML-That Private Co.
+* 36-38 Sygrou Avenue, Athens, Greece 11742
+* VAT: 801022827
+* Tel: 2109231205, Fax: 2109229974
+
+**Vessel and Cargo Details**
+
+* Pre-carriage by Bangkok 107S
+* Place of Receipt: Chittagong, Bangladesh
+* Vessel: Cosco Shipping Saggitarus
+* Port of Loading: Chittagong, Bangladesh
+* Type of Mode: CFS/CFS
+* Number of Originals: 1 of 1
+
+**Cargo Information**
+
+* Mark & Numbers: 17 wooden boxes
+* Description of Goods and Packages: Used ship spare parts (H.S Code: 84879000)
+* Gross Weight: 7800.00 KGS, Volume: 10.00 CBM
+* Freight Prepaid
+
+Here is a summary of the chunk of text:
+
+* HYD motors and pumps with various designations (03.P, 04.FG, 05.HMC, etc.) with total quantities:
+	+ Hydraulic motors: 7
+	+ Hydraulic pumps: 6
+* Total weight: 7800.00 KGS (kilograms)
+* Total volume: 10.00 CBM (cubic meters)
+

@@ -1,0 +1,32 @@
+Here is the summary of the chunk of text:
+
+**Consignee Information**
+
+* Name: HYDOIL EE
+* Address: 21, Drakontos Str, PC 10442, Athens, Greece
+* VAT: EL 801293314
+* Notify Party: Same as Consignee or To Order
+
+**Shipper Information (Not the same as previous chunks)**
+
+* Shipper Name not provided in this chunk
+* Bill of Lading Number: SSL21169
+* Invoice Number: HTTEXP-0221
+* Delivery Address:
+	+ Company Name: GoogsFieg@ APPA RITIME S.A.
+	+ Address: 133A Filonos Street, Piraeus-Greece 18536
+	+ Contact Person: MRS. AGAPI MOUSSAKOU
+
+**Shipping Details**
+
+* Port of Loading: Chittagong, Bangladesh
+* Vessel/Voyage: BANGKOK YV-107S
+* Port of Discharge: PIRAEUS, GREECE
+
+**Cargo Information**
+
+* Description of Goods: 6000 S ea SHIPPERS LOAD & COUNT | SAID TQ WEIGH CONTAINER NO: (SEVENTEEN WOODEN BOX ONLY)
+	+ Contains various hydraulic system parts
+* Shipping Marks: CMS-0221
+* H.S Code: 84879000
+
